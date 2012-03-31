@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>@Todo</string>
+    <key>contactName</key>
+	<string>Nijikokun</string>
+	<key>description</key>
+	<string>@Todo Syntax Highlighter</string>
+	<key>ordering</key>
+	<array>
+		<string>68F0B1A5-3275-4E85-8B3A-A481C5F5B194</string>
+	</array>
+	<key>uuid</key>
+	<string>9047FE8D-3F4D-4683-AD51-EC928953336D</string>
+</dict>
+</plist>
